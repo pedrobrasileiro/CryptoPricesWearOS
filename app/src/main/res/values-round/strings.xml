@@ -1,0 +1,5 @@
+<resources>
+    <string name="hello_world">Hello Round World!</string>
+    <string name="reload">Atualizar</string>
+    <string name="eth_value">Current Value</string>
+</resources>
