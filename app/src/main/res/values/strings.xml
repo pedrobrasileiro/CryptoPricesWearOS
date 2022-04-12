@@ -8,4 +8,5 @@
     <string name="loading">Atualizando...</string>
     <string name="eth">ETH</string>
     <string name="eth_value">Current Value</string>
+    <string name="last_update">Última Atualização</string>
 </resources>

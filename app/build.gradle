@@ -34,6 +34,14 @@ dependencies {
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     implementation 'androidx.recyclerview:recyclerview:1.2.1'
     implementation 'androidx.wear:wear:1.2.0'
+//
+//    // Wear specific Compose Dependencies
+//    implementation "androidx.wear.compose:compose-material:+"
+//    implementation "androidx.wear.compose:compose-foundation:+"
+//
+//    // For navigation within your app...
+//    implementation "androidx.wear.compose:compose-navigation:+"
+
     implementation 'com.squareup.retrofit2:retrofit:2.5.0'
     implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
